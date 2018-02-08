@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\aplex\.android\build-cache\2ed835e3729e9f6e0068d32020dcf25c7115bd9d\output\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res"/><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\build\generated\res\rs\debug"/><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\debug\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\aplex\.android\build-cache\2ed835e3729e9f6e0068d32020dcf25c7115bd9d\output\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res"><file name="vpi__dark_theme" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\color\vpi__dark_theme.xml" qualifiers="" type="color"/><file name="vpi__light_theme" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\color\vpi__light_theme.xml" qualifiers="" type="color"/><file name="ic_drawer_am" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable\ic_drawer_am.png" qualifiers="" type="drawable"/><file name="loading_bar_border" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable\loading_bar_border.xml" qualifiers="" type="drawable"/><file name="shadow" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable\shadow.xml" qualifiers="" type="drawable"/><file name="aplex_logo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\aplex_logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_divider" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_divider.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_focused" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_selected" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_selected.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_selected_pressed" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_selected_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_unselected" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_unselected.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_unselected_focused" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_unselected_focused.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_unselected_pressed" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\custom_tab_indicator_unselected_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_log" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\ic_log.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_indicator" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-hdpi\vpi__tab_indicator.xml" qualifiers="hdpi-v4" type="drawable"/><file name="custom_tab_indicator_divider" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\custom_tab_indicator_divider.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\vpi__tab_selected_focused_holo.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\vpi__tab_selected_holo.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\vpi__tab_unselected_holo.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-ldpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\vpi__tab_selected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\vpi__tab_unselected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-mdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="dialog_loading" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\dialog_loading.xml" qualifiers="" type="layout"/><file name="dialog_normal_layout" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\dialog_normal_layout.xml" qualifiers="" type="layout"/><file name="home_menu_left" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\home_menu_left.xml" qualifiers="" type="layout"/><file name="home_menu_right" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\home_menu_right.xml" qualifiers="" type="layout"/><file name="menu" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\menu.xml" qualifiers="" type="layout"/><file name="simple_flat_list_item" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\simple_flat_list_item.xml" qualifiers="" type="layout"/><file name="slidingmenumain" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\slidingmenumain.xml" qualifiers="" type="layout"/><file name="spinner_button" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\spinner_button.xml" qualifiers="" type="layout"/><file name="ui_can" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_can.xml" qualifiers="" type="layout"/><file name="ui_can_list" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_can_list.xml" qualifiers="" type="layout"/><file name="ui_can_list_item" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_can_list_item.xml" qualifiers="" type="layout"/><file name="ui_can_opt1" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_can_opt1.xml" qualifiers="" type="layout"/><file name="ui_can_opt2" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_can_opt2.xml" qualifiers="" type="layout"/><file name="ui_can_setting" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_can_setting.xml" qualifiers="" type="layout"/><file name="ui_content" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_content.xml" qualifiers="" type="layout"/><file name="ui_welcome" path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\layout\ui_welcome.xml" qualifiers="" type="layout"/><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+            <enum name="none" value="2"/>
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+            <enum name="none" value="2"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="float" name="fadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\colors.xml" qualifiers=""><color name="custom_theme_darker">#ad843d</color><color name="custom_theme_light">#fae8c8</color><color name="black_deep">#FF000000</color><color name="holo_orange_light">#ffffbb33</color><integer-array name="custom_theme">
+        <item>@color/custom_theme_darker</item> 
+        <item>@color/custom_theme_dark</item> 
+        <item>@color/custom_theme_primary</item> 
+        <item>@color/custom_theme_light</item> 
+    </integer-array><color name="btn_answer_pressed">#4ebcd3</color><color name="btn_gray_normal">#c0c0c0</color><color name="common_top_bar_blue">#4ebcd3</color><color name="error_item_color">#F6EBE6</color><color name="btn_register_pressed">#00acff</color><color name="btn_logout_pressed">#DA5A4D</color><color name="colorPrimary">#3F51B5</color><color name="btn_white_normal">#f7f8f8</color><color name="colorAccent">#FF4081</color><color name="grid_state_pressed">#1Affffff</color><color name="bottom_text_color_normal">#ffffff</color><color name="btn_green_noraml">#68C270</color><color name="grid_state_focused">#80000000</color><color name="orange">#FFA500</color><color name="btn_pressed_green_solid">#B6DA53</color><color name="gray_normal">#666667</color><color name="btn_gray_pressed_status">#b5b5b6</color><color name="btn_logout_normal">#d33f3f</color><color name="btn_white_pressed">#b5b5b6</color><color name="viewPagerTabBackground">#ffffff</color><color name="btn_blue_pressed">#0066FF</color><color name="fragmentBackground">#ffffff</color><color name="holo_green_light">#ff99cc00</color><color name="btn_green_pressed">#6FCD78</color><color name="btn_login_pressed">#46678d</color><color name="gray_pressed">#b5b5b6</color><color name="voip_interface_text_color">#bababa</color><color name="common_botton_bar_blue">#2ea7e0</color><color name="btn_login_normal">#00acff</color><color name="bottom_bar_normal_bg">#2D2F31</color><color name="divider_list">#d4d4d4</color><color name="common_bottom_bar_selected_bg">#161718</color><color name="list_item_primary_color">#000</color><color name="custom_theme_primary">#fbbf58</color><color name="btn_register_normal">#ffffff</color><color name="holo_blue_bright">#ff00ddff</color><color name="btn_blue_normal">#1e90ff</color><color name="btn_answer_normal">#2dafa3</color><color name="colorPrimaryDark">#303F9F</color><color name="top_bar_normal_bg">#00acff</color><color name="btn_gray_pressed">#666667</color><color name="common_bottom_bar_normal_bg">#2d2f31</color><color name="holo_red_light">#ffff4444</color><color name="custom_theme_dark">#d4a14a</color><color name="common_bg">#fcfcfc</color><color name="list_item_secondary_color">#888888</color></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\ids.xml" qualifiers=""><item name="selected_view" type="id"/></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\strings.xml" qualifiers=""><string-array name="viewpager_tabs">
+        
+        <item>WebCAN</item>
+    </string-array><string-array name="can_format">
+        <item>DATA</item>
+        <item>REMOTE</item>
+    </string-array><string name="can_list_title_frame_type">Frame_type</string><string name="drawer_des_open">open</string><string name="can_list_title_data_len">Data_len</string><string name="send_time">1</string><string name="data_mode">Mode:</string><string name="CAN0_Setup">CAN0_Setup</string><string name="addr_value">ffffffff</string><string name="data_of_send">00 01 02 03 04 05 06 07</string><string name="can_list_title_ID">ID</string><string-array name="CAN_mode">
+        <item>normal</item>
+        <item>listener only</item>
+    </string-array><string name="data_type">Type:</string><string name="can_list_title_data">Data</string><string name="send">send</string><string name="dataerror">data is illegal,please reset you data</string><string name="frameFormat">Format:</string><string-array name="baudrate">
+        <item>5kbps</item>
+        <item>10kbps</item>
+        <item>20kbps</item>
+        <item>40kbps</item>
+        <item>50kbps</item>
+        <item>80kbps</item>
+        <item>100kbps</item>
+        <item>125kbps</item>
+        <item>200kbps</item>
+        <item>250kbps</item>
+        <item>400kbps</item>
+        <item>500kbps</item>
+        <item>800kbps</item>
+        <item>1Mbps</item>
+    </string-array><string name="time">Times :</string><string name="hello_world">Hello world!</string><string-array name="send_type">
+        <item>EFF</item>
+        <item>SFF</item>
+    </string-array><string name="intvl">intvl(ms) :</string><string name="addr">ID: 0x</string><string name="action_settings">Settings</string><string name="data">data :</string><string name="app_name">WebCan</string><string name="CAN1_Setup">CAN1_Setup</string><string name="formaterror">canid is illegal,please reset canid</string><string-array name="can_devices">
+        <item>CAN0</item>
+        <item>CAN1</item>
+        <item>BOTH</item>
+    </string-array><string name="can_list_title_index">Index</string><string name="led_toggle_on_text">ON</string><string name="can_list_title_frame_formate">Frame_Formate</string><string name="can_device">Device</string><string name="send_intvl_time">10</string><string-array name="baudrates">
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>40000</item>
+        <item>50000</item>
+        <item>80000</item>
+        <item>100000</item>
+        <item>125000</item>
+        <item>200000</item>
+        <item>250000</item>
+        <item>400000</item>
+        <item>500000</item>
+        <item>800000</item>
+        <item>1000000</item>
+    </string-array><string name="led_toggle_off_text">OFF</string><string name="title_can0">CAN0 SETUP</string><string name="info_can0">infomation of can0</string><string name="can_list_title_direction">Direction</string><string name="title_can1">CAN1 SETUP</string><string name="drawer_des_close">close</string><string-array name="send_mode">
+        <item>Normal</item>
+        <item>Self Tx-Rx</item>
+    </string-array><string name="info_can1">infomation of can1</string><string name="clear">clear</string></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\styles.xml" qualifiers=""><style name="StyledIndicators" parent="AppTheme">
+        <item name="vpiCirclePageIndicatorStyle">@style/CustomCirclePageIndicator</item>
+        <item name="vpiLinePageIndicatorStyle">@style/CustomLinePageIndicator</item>
+        <item name="vpiTitlePageIndicatorStyle">@style/CustomTitlePageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>
+        <item name="vpiUnderlinePageIndicatorStyle">@style/CustomUnderlinePageIndicator</item>
+    </style><style name="CustomTabPageIndicator" parent="Widget.TabPageIndicator">
+        
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">#FF555555</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:divider">@drawable/custom_tab_indicator_divider</item>
+        <item name="android:dividerPadding">8dp</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">6dp</item>
+    </style><style name="MytextSize" parent="AppTheme">
+        <item name="android:textSize">13sp</item>
+    </style><style name="CustomCirclePageIndicator">
+        <item name="fillColor">#FF888888</item>
+        <item name="strokeColor">#FF000000</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="radius">10dp</item>
+        <item name="centered">true</item>
+    </style><style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style><style name="com3mode_button_style" parent="AppTheme">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_margin">15dp</item>
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style><style name="CustomUnderlinePageIndicator">
+        <item name="selectedColor">#FFCC0000</item>
+        <item name="android:background">#FFCCCCCC</item>
+        <item name="fadeLength">1000</item>
+        <item name="fadeDelay">1000</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="CustomTitlePageIndicator">
+        <item name="android:background">#18FF0000</item>
+        <item name="footerColor">#FFAA2222</item>
+        <item name="footerLineHeight">1dp</item>
+        <item name="footerIndicatorHeight">3dp</item>
+        <item name="footerIndicatorStyle">underline</item>
+        <item name="android:textColor">#AA000000</item>
+        <item name="selectedColor">#FF000000</item>
+        <item name="selectedBold">true</item>
+    </style><style name="Dialog" parent="android:style/Theme.Dialog">  
+        <item name="android:background">#00000000</item>  
+        <item name="android:windowBackground">@android:color/transparent</item>  
+        <item name="android:windowNoTitle">true</item>  
+        <item name="android:windowIsFloating">true</item>  
+    </style><style name="gpio_button_style" parent="AppTheme">
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">35dp</item>
+    </style><style name="CustomLinePageIndicator">
+        <item name="strokeWidth">4dp</item>
+        <item name="lineWidth">30dp</item>
+        <item name="unselectedColor">#FF888888</item>
+        <item name="selectedColor">#FF880000</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        
+    </style><style name="dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\values.xml" qualifiers=""><integer-array name="blood">
+        <item>@color/blood_darker</item>
+        <item>@color/blood_dark</item>
+        <item>@color/blood_primary</item>
+        <item>@color/blood_light</item>
+    </integer-array><color name="sky_darker">#0b6978</color><color name="grape_primary">#695b8e</color><attr format="string" name="fl_fontExtension"/><color name="sky_primary">#13b7d2</color><integer-array name="grass">
+        <item>@color/grass_darker</item>
+        <item>@color/grass_dark</item>
+        <item>@color/grass_primary</item>
+        <item>@color/grass_light</item>
+    </integer-array><color name="blood_primary">#d94130</color><color name="blood_darker">#732219</color><color name="sand_dark">#d4a14a</color><color name="grape_light">#b1a2db</color><declare-styleable name="fl_FlatSeekBar">
+        <attr name="fl_theme"/>
+        <attr name="fl_size"/>
+    </declare-styleable><integer-array name="sea">
+        <item>@color/sea_darker</item>
+        <item>@color/sea_dark</item>
+        <item>@color/sea_primary</item>
+        <item>@color/sea_light</item>
+    </integer-array><integer-array name="grape">
+        <item>@color/grape_darker</item>
+        <item>@color/grape_dark</item>
+        <item>@color/grape_primary</item>
+        <item>@color/grape_light</item>
+    </integer-array><declare-styleable name="fl_FlatTextView">
+        <attr name="fl_theme"/>
+        <attr name="fl_fontFamily"/>
+        <attr name="fl_fontWeight"/>
+        <attr name="fl_fontExtension"/>
+        <attr name="fl_cornerRadius"/>
+        <attr name="fl_borderWidth"/>
+        <attr format="integer" name="fl_textColor">
+            <enum name="fl_darker" value="0"/>
+            <enum name="fl_dark" value="1"/>
+            <enum name="fl_main" value="2"/>
+            <enum name="fl_light" value="3"/>
+        </attr>
+        <attr format="integer" name="fl_backgroundColor">
+            <enum name="fl_darker" value="0"/>
+            <enum name="fl_dark" value="1"/>
+            <enum name="fl_main" value="2"/>
+            <enum name="fl_light" value="3"/>
+        </attr>
+        <attr format="color" name="fl_customBackgroundColor"/>
+    </declare-styleable><attr format="string" name="fl_fontWeight"/><declare-styleable name="fl_FlatAutoCompleteTextView">
+        <attr name="fl_theme"/>
+        <attr name="fl_fontFamily"/>
+        <attr name="fl_fontWeight"/>
+        <attr name="fl_fontExtension"/>
+        <attr name="fl_textAppearance"/>
+        <attr name="fl_cornerRadius"/>
+        <attr name="fl_borderWidth"/>
+        <attr format="integer" name="fl_autoFieldStyle">
+            <enum name="flat" value="0"/>
+            <enum name="box" value="1"/>
+            <enum name="transparent" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="fl_FlatCheckBox">
+        <attr name="fl_theme"/>
+        <attr name="fl_fontFamily"/>
+        <attr name="fl_fontWeight"/>
+        <attr name="fl_fontExtension"/>
+        <attr name="fl_cornerRadius"/>
+        <attr name="fl_size"/>
+        <attr name="fl_dotMargin"/>
+    </declare-styleable><attr format="dimension" name="fl_dotMargin"/><color name="sand_light">#fae8c8</color><color name="blossom_primary">#e898bf</color><color name="deep_dark">#2d3845</color><color name="orange_dark">#cc5d35</color><color name="orange_light">#ffbfa8</color><color name="deep_light">#c7dbf4</color><color name="blossom_light">#e8d1dc</color><color name="candy_darker">#80363c</color><integer-array name="blossom">
+        <item>@color/blossom_darker</item>
+        <item>@color/blossom_dark</item>
+        <item>@color/blossom_primary</item>
+        <item>@color/blossom_light</item>
+    </integer-array><color name="grass_primary">#2ab081</color><color name="orange_darker">#994628</color><color name="blossom_dark">#b57795</color><color name="grass_light">#a8e3ce</color><color name="sky_dark">#0e8b9e</color><attr format="dimension" name="fl_size"/><color name="deep_primary">#2d3845</color><color name="sand_darker">#ad843d</color><color name="deep_darker">#232b35</color><attr format="dimension" name="fl_borderWidth"/><color name="blood_dark">#a63124</color><color name="blood_light">#f2b6ae</color><declare-styleable name="fl_FlatToggleButton">
+        <attr name="fl_theme"/>
+        <attr name="fl_cornerRadius"/>
+        <attr format="dimension" name="fl_space"/>
+    </declare-styleable><color name="grass_darker">#124c38</color><declare-styleable name="fl_FlatRadioButton">
+        <attr name="fl_theme"/>
+        <attr name="fl_fontFamily"/>
+        <attr name="fl_fontWeight"/>
+        <attr name="fl_fontExtension"/>
+        <attr name="fl_borderWidth"/>
+        <attr name="fl_size"/>
+        <attr name="fl_dotMargin"/>
+    </declare-styleable><attr format="string" name="fl_fontFamily"/><color name="candy_light">#f5c4c8</color><color name="dark_dark">#202020</color><color name="orange_primary">#ff7342</color><color name="sea_darker">#1a3b6c</color><color name="grape_dark">#4f456b</color><attr format="integer" name="fl_touchEffect">
+        <enum name="fl_none" value="0"/>
+        <enum name="fl_ease" value="1"/>
+        <enum name="fl_ripple" value="2"/>
+    </attr><declare-styleable name="fl_FlatEditText">
+        <attr name="fl_theme"/>
+        <attr name="fl_fontFamily"/>
+        <attr name="fl_fontWeight"/>
+        <attr name="fl_fontExtension"/>
+        <attr name="fl_textAppearance"/>
+        <attr name="fl_cornerRadius"/>
+        <attr name="fl_borderWidth"/>
+        <attr format="integer" name="fl_fieldStyle">
+            <enum name="fl_flat" value="0"/>
+            <enum name="fl_box" value="1"/>
+            <enum name="fl_transparent" value="2"/>
+        </attr>
+    </declare-styleable><color name="sea_light">#d5e3f7</color><color name="candy_dark">#bf505a</color><color name="snow_light">#fafafa</color><color name="snow_darker">#c8c8c8</color><color name="dark_light">#a3a3a3</color><color name="dark_primary">#454545</color><color name="grape_darker">#362f4a</color><color name="sky_light">#b9e4eb</color><integer-array name="candy">
+        <item>@color/candy_darker</item>
+        <item>@color/candy_dark</item>
+        <item>@color/candy_primary</item>
+        <item>@color/candy_light</item>
+    </integer-array><integer-array name="dark">
+        <item>@color/dark_darker</item>
+        <item>@color/dark_dark</item>
+        <item>@color/dark_primary</item>
+        <item>@color/dark_light</item>
+    </integer-array><color name="dark_darker">#050505</color><color name="snow_primary">#e8e8e8</color><color name="blossom_darker">#8f5e76</color><integer-array name="sky">
+        <item>@color/sky_darker</item>
+        <item>@color/sky_dark</item>
+        <item>@color/sky_primary</item>
+        <item>@color/sky_light</item>
+    </integer-array><integer-array name="sand">
+        <item>@color/sand_darker</item>
+        <item>@color/sand_dark</item>
+        <item>@color/sand_primary</item>
+        <item>@color/sand_light</item>
+    </integer-array><color name="candy_primary">#f56773</color><integer-array name="deep">
+        <item>@color/deep_darker</item>
+        <item>@color/deep_dark</item>
+        <item>@color/deep_primary</item>
+        <item>@color/deep_light</item>
+    </integer-array><integer-array name="snow">
+        <item>@color/snow_darker</item>
+        <item>@color/snow_dark</item>
+        <item>@color/snow_primary</item>
+        <item>@color/snow_light</item>
+    </integer-array><color name="sand_primary">#fbbf58</color><attr format="dimension" name="fl_cornerRadius"/><attr format="integer" name="fl_textAppearance">
+        <enum name="fl_none" value="0"/>
+        <enum name="fl_dark" value="1"/>
+        <enum name="fl_light" value="2"/>
+    </attr><color name="sea_dark">#1c52a2</color><color name="sea_primary">#2d72d9</color><color name="snow_dark">#dddddd</color><declare-styleable name="fl_FlatButton">
+        <attr name="fl_theme"/>
+        <attr name="fl_fontFamily"/>
+        <attr name="fl_fontWeight"/>
+        <attr name="fl_fontExtension"/>
+        <attr name="fl_textAppearance"/>
+        <attr name="fl_cornerRadius"/>
+        <attr name="fl_touchEffect"/>
+
+        
+        <attr format="dimension" name="fl_blockButtonEffectHeight"/>
+    </declare-styleable><color name="grass_dark">#1e7d5b</color><attr format="reference" name="fl_theme"/><integer-array name="orange">
+        <item>@color/orange_darker</item>
+        <item>@color/orange_dark</item>
+        <item>@color/orange_primary</item>
+        <item>@color/orange_light</item>
+    </integer-array></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\vpi__attrs.xml" qualifiers=""><attr format="float" name="startAngle"/><attr format="dimension" name="strokeWidth"/><declare-styleable name="ColorfulRingProgressView">
+        <attr name="bgColor"/>
+        <attr format="color" name="fgColorStart"/>
+        <attr format="color" name="fgColorEnd"/>
+        <attr name="strokeWidth"/>
+        <attr name="percent"/>
+        <attr name="startAngle"/>
+    </declare-styleable><declare-styleable name="SectorProgressView">
+        <attr name="bgColor"/>
+        <attr name="fgColor"/>
+        <attr name="percent"/>
+        <attr name="startAngle"/>
+    </declare-styleable><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="bgColor"/><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><attr format="boolean" name="centered"/><attr format="color" name="fgColor"/><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><attr format="float" name="percent"/><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\vpi__colors.xml" qualifiers=""><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__background_holo_light">#fff3f3f3</color></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\vpi__defaults.xml" qualifiers=""><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><bool name="default_circle_indicator_centered">true</bool><color name="default_circle_indicator_page_color">#00000000</color><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><dimen name="default_circle_indicator_radius">3dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><integer name="default_circle_indicator_orientation">0</integer><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_title_indicator_footer_indicator_style">2</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><bool name="default_circle_indicator_snap">false</bool><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><color name="default_title_indicator_selected_color">#FFFFFFFF</color><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_clip_padding">4dp</dimen><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_line_position">0</integer><dimen name="default_title_indicator_text_size">15dp</dimen><dimen name="default_title_indicator_footer_padding">7dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><bool name="default_title_indicator_selected_bold">true</bool><dimen name="default_line_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><color name="default_title_indicator_footer_color">#FF33B5E5</color><bool name="default_line_indicator_centered">true</bool><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><bool name="default_underline_indicator_fades">true</bool></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="Widget">
+    </style><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style></file><file path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\build\generated\res\rs\debug"/><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="fl_FlatButton"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_textAppearance"/><attr name="fl_cornerRadius"/><attr name="fl_touchEffect"/><attr format="dimension" name="fl_blockButtonEffectHeight"/></declare-styleable><declare-styleable name="ColorfulRingProgressView"><attr name="bgColor"/><attr format="color" name="fgColorStart"/><attr format="color" name="fgColorEnd"/><attr name="strokeWidth"/><attr name="percent"/><attr name="startAngle"/></declare-styleable><declare-styleable name="fl_FlatCheckBox"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_cornerRadius"/><attr name="fl_size"/><attr name="fl_dotMargin"/></declare-styleable><declare-styleable name="SectorProgressView"><attr name="bgColor"/><attr name="fgColor"/><attr name="percent"/><attr name="startAngle"/></declare-styleable><declare-styleable name="fl_FlatSeekBar"><attr name="fl_theme"/><attr name="fl_size"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="fl_FlatTextView"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_textColor">
+            <enum name="fl_darker" value="0"/>
+            <enum name="fl_dark" value="1"/>
+            <enum name="fl_main" value="2"/>
+            <enum name="fl_light" value="3"/>
+        </attr><attr format="integer" name="fl_backgroundColor">
+            <enum name="fl_darker" value="0"/>
+            <enum name="fl_dark" value="1"/>
+            <enum name="fl_main" value="2"/>
+            <enum name="fl_light" value="3"/>
+        </attr><attr format="color" name="fl_customBackgroundColor"/></declare-styleable><declare-styleable name="fl_FlatAutoCompleteTextView"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_textAppearance"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_autoFieldStyle">
+            <enum name="flat" value="0"/>
+            <enum name="box" value="1"/>
+            <enum name="transparent" value="2"/>
+        </attr></declare-styleable><declare-styleable name="fl_FlatToggleButton"><attr name="fl_theme"/><attr name="fl_cornerRadius"/><attr format="dimension" name="fl_space"/></declare-styleable><declare-styleable name="fl_FlatEditText"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_textAppearance"/><attr name="fl_cornerRadius"/><attr name="fl_borderWidth"/><attr format="integer" name="fl_fieldStyle">
+            <enum name="fl_flat" value="0"/>
+            <enum name="fl_box" value="1"/>
+            <enum name="fl_transparent" value="2"/>
+        </attr></declare-styleable><declare-styleable name="SlidingMenu"><attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+            <enum name="none" value="2"/>
+        </attr><attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+            <enum name="none" value="2"/>
+        </attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="fl_FlatRadioButton"><attr name="fl_theme"/><attr name="fl_fontFamily"/><attr name="fl_fontWeight"/><attr name="fl_fontExtension"/><attr name="fl_borderWidth"/><attr name="fl_size"/><attr name="fl_dotMargin"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
+    }
+]

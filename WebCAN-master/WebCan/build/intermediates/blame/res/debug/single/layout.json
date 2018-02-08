@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_can_list.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_list.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\simple_flat_list_item.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\simple_flat_list_item.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_content.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_content.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_can_opt2.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_opt2.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_welcome.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_welcome.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_can_list_item.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_list_item.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_normal_layout.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu_right.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\home_menu_right.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_can_setting.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_setting.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_button.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\spinner_button.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_can.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\ui_can_opt1.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_opt1.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\home_menu_left.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\home_menu_left.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\slidingmenumain.xml"
+    }
+]

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:flatui="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@color/sky_dark"
+            android:gravity="center"
+            android:text="@string/title_can0"
+            android:textColor="@android:color/white"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/spinner1_container"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/spinner1_text"
+                style="@style/MytextSize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/can_device"
+                android:textColor="@color/black_deep" />
+
+            <Spinner
+                android:spinnerMode="dialog"
+                android:id="@+id/spinner_1"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content" >
+            </Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+             android:id="@+id/spinner2_container"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/spinner2_text"
+                style="@style/MytextSize"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="@string/can_device"
+                android:textColor="@color/black_deep" />
+
+            <Spinner
+                android:spinnerMode="dialog"
+                android:id="@+id/spinner_2"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content" >
+            </Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:gravity="center" >
+
+            <com.aplex.webcan.flatui.view.FlatButton
+                 android:id="@+id/negativeButton"
+                android:gravity="center"
+                android:text="cancel"
+                flatui:fl_cornerRadius="0dp"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@color/divider_list"
+                android:textColor="@color/sky_primary" />
+            
+            
+			<TextView
+		        android:layout_width="1px"
+		        android:layout_height="match_parent"
+		        android:background="@color/divider_list" />
+			
+			
+            <com.aplex.webcan.flatui.view.FlatButton
+                android:id="@+id/positiveButton"
+                android:gravity="center"
+                android:text="confirm"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                flatui:fl_cornerRadius="0dp"
+                flatui:fl_backgroundColor="fl_light"
+                flatui:fl_textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

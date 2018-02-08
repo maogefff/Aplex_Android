@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="formaterror">canid is illegal,please reset canid</string>
+    <string name="dataerror">data is illegal,please reset you data</string>
+    <string name="app_name">WebCan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_des_open">open</string>
+    <string name="drawer_des_close">close</string>
+    <string-array name="viewpager_tabs">
+        <!--  	<item>Buzz</item>
+        <item>Eeprom</item>-->
+        <item>WebCAN</item>
+    </string-array>
+    <string name="title_can0">CAN0 SETUP</string>
+    <string name="title_can1">CAN1 SETUP</string>
+    <string-array name="CAN_mode">
+        <item>normal</item>
+        <item>listener only</item>
+    </string-array>
+    <string-array name="baudrate">
+        <item>5kbps</item>
+        <item>10kbps</item>
+        <item>20kbps</item>
+        <item>40kbps</item>
+        <item>50kbps</item>
+        <item>80kbps</item>
+        <item>100kbps</item>
+        <item>125kbps</item>
+        <item>200kbps</item>
+        <item>250kbps</item>
+        <item>400kbps</item>
+        <item>500kbps</item>
+        <item>800kbps</item>
+        <item>1Mbps</item>
+    </string-array>
+    <string-array name="baudrates">
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>40000</item>
+        <item>50000</item>
+        <item>80000</item>
+        <item>100000</item>
+        <item>125000</item>
+        <item>200000</item>
+        <item>250000</item>
+        <item>400000</item>
+        <item>500000</item>
+        <item>800000</item>
+        <item>1000000</item>
+    </string-array>
+    <string name="can_device">Device</string>
+    <string name="data_mode">Mode:</string>
+    <string name="data_type">Type:</string>
+    <string name="frameFormat">Format:</string>
+    <string name="addr">ID: 0x</string>
+    <string name="addr_value">ffffffff</string>
+    <string name="data_of_send">00 01 02 03 04 05 06 07</string>
+    <string name="data">data :</string>
+    <string name="time">Times :</string>
+    <string name="send_time">1</string>
+    <string name="intvl">intvl(ms) :</string>
+    <string name="send_intvl_time">10</string>
+    <string name="send">send</string>
+    <string name="clear">clear</string>
+    <string name="led_toggle_off_text">OFF</string>
+    <string name="led_toggle_on_text">ON</string>
+    <string name="CAN0_Setup">CAN0_Setup</string>
+    <string name="CAN1_Setup">CAN1_Setup</string>
+    <string-array name="can_devices">
+        <item>CAN0</item>
+        <item>CAN1</item>
+        <item>BOTH</item>
+    </string-array>
+    <string-array name="send_mode">
+        <item>Normal</item>
+        <item>Self Tx-Rx</item>
+    </string-array>
+    <string-array name="send_type">
+        <item>EFF</item>
+        <item>SFF</item>
+    </string-array>
+    <string-array name="can_format">
+        <item>DATA</item>
+        <item>REMOTE</item>
+    </string-array>
+    <string name="info_can0">infomation of can0</string>
+    <string name="info_can1">infomation of can1</string>
+    <string name="can_list_title_index">Index</string>
+    <string name="can_list_title_direction">Direction</string>
+    <string name="can_list_title_ID">ID</string>
+    <string name="can_list_title_frame_type">Frame_type</string>
+    <string name="can_list_title_frame_formate">Frame_Formate</string>
+    <string name="can_list_title_data_len">Data_len</string>
+    <string name="can_list_title_data">Data</string>
+</resources>

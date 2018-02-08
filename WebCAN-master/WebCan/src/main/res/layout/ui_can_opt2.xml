@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:flatui="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="horizontal" >
+
+    <TextView
+        style="@style/MytextSize"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/data"
+        android:textColor="@color/black_deep" />
+
+    <com.aplex.webcan.flatui.view.FlatEditText
+        android:id="@+id/data_of_send"
+        style="@style/MytextSize"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:imeOptions="flagNoExtractUi"
+        android:inputType="textNoSuggestions"
+        android:text="@string/data_of_send"
+        android:textSize="16sp"
+        flatui:fl_cornerRadius="0dp"
+        flatui:fl_fieldStyle="fl_box" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/divider_list" />
+
+    <TextView
+        style="@style/MytextSize"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/time"
+        android:textColor="@color/black_deep" />
+
+    <com.aplex.webcan.flatui.view.FlatEditText
+        android:id="@+id/times"
+        style="@style/MytextSize"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:imeOptions="flagNoExtractUi"
+        android:inputType="textNoSuggestions"
+        android:text="@string/send_time"
+        android:textSize="16sp"
+        flatui:fl_cornerRadius="0dp"
+        flatui:fl_fieldStyle="fl_box" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/divider_list" />
+
+    <TextView
+        style="@style/MytextSize"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/intvl"
+        android:textColor="@color/black_deep" />
+
+    <com.aplex.webcan.flatui.view.FlatEditText
+        android:id="@+id/send_intvl"
+        style="@style/MytextSize"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:imeOptions="flagNoExtractUi"
+        android:inputType="textNoSuggestions"
+        android:text="@string/send_intvl_time"
+        android:textSize="16sp"
+        flatui:fl_cornerRadius="0dp"
+        flatui:fl_fieldStyle="fl_box" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/divider_list" />
+
+    <com.aplex.webcan.flatui.view.FlatButton
+        android:id="@+id/send_btn"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:text="@string/send" >
+    </com.aplex.webcan.flatui.view.FlatButton>
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="@color/divider_list" />
+    <com.aplex.webcan.flatui.view.FlatButton
+        android:id="@+id/clear_btn"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="5dp"
+        android:text="@string/clear" >
+    </com.aplex.webcan.flatui.view.FlatButton>
+
+</LinearLayout>

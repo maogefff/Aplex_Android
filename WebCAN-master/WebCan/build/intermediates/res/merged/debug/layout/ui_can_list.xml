@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="400dp" >
+
+    <TextView
+        android:background="@color/viewPagerTabBackground"
+        android:layout_width="0dp"
+        android:layout_height="400dp"
+        android:layout_weight="0.7" />
+    
+		<!-- 分割线 -->
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/divider_list" />
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="400dp"
+        android:layout_weight="25"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/viewPagerTabBackground"
+            android:gravity="center"
+            android:text="@string/info_can0" />
+        <!-- 分割线 -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+        
+		<include layout="@layout/ui_can_list_item"/>
+		
+		<TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+        <com.aplex.webcan.customview.MyListView
+            android:id="@+id/can0_info"
+            android:layout_width="match_parent"
+            android:layout_height="180dp" >
+        </com.aplex.webcan.customview.MyListView>
+        
+        <!-- 分割线 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+
+        <TextView
+             android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="@string/info_can1" />
+        
+        <!-- 分割线 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+
+        <com.aplex.webcan.customview.MyListView
+            android:id="@+id/can1_info"
+            android:layout_width="match_parent"
+            android:layout_height="180dp" >
+        </com.aplex.webcan.customview.MyListView>
+    </LinearLayout>
+
+    
+    <!-- 分割线 -->
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/divider_list" />
+    <TextView
+        android:background="@color/viewPagerTabBackground"
+        android:layout_width="0dp"
+        android:layout_height="400dp"
+        android:layout_weight="0.7" />
+
+</LinearLayout>

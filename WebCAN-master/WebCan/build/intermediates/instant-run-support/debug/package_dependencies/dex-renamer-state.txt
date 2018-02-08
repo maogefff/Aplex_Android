@@ -1,0 +1,16 @@
+#Fri Jan 19 09:10:53 CST 2018
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes5.dex
+base.4=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_2c624246eae0d21d1a53a0ff9bc2331c8d24b3c7
+renamed.0=classes.dex
+base.3=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661
+base.2=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson_2.2.4_337e55e5a4945c96ee0fddcf05304ae3b725f435
+base.1=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\hyphenatechat_3.1.4_64f9b66b3fb4c3401c66512dbb2ec70708df9b9e
+base.0=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a158f0acad646e629e8e8e1134f5530c28fa186
+file.4=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_2c624246eae0d21d1a53a0ff9bc2331c8d24b3c7\\classes.dex
+file.3=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661\\classes.dex
+file.2=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson_2.2.4_337e55e5a4945c96ee0fddcf05304ae3b725f435\\classes.dex
+file.1=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\hyphenatechat_3.1.4_64f9b66b3fb4c3401c66512dbb2ec70708df9b9e\\classes.dex
+file.0=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a158f0acad646e629e8e8e1134f5530c28fa186\\classes.dex

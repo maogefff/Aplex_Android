@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_simple_flat_list_item.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\simple_flat_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_content.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_content.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable_loading_bar_border.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable\\loading_bar_border.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_welcome.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_welcome.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_unselected_focused.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpi__tab_selected_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_unselected_pressed.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_divider.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_divider.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_can_opt1.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_opt1.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_can_setting.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_setting.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_dialog_loading.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpi__tab_unselected_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aplex_logo.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\aplex_logo.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_home_menu_right.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\home_menu_right.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_unselected.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\color_vpi__light_theme.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpi__tab_unselected_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_slidingmenumain.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_dialog_normal_layout.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\dialog_normal_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_focused.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_spinner_button.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\spinner_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_home_menu_left.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\home_menu_left.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpi__tab_selected_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_can.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpi__tab_unselected_focused_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_can_list.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_log.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\ic_log.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vpi__tab_indicator.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vpi__tab_selected_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_selected.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_can_list_item.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_ui_can_opt2.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\ui_can_opt2.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_custom_tab_indicator_divider.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\custom_tab_indicator_divider.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vpi__tab_unselected_pressed_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vpi__tab_unselected_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\color_vpi__dark_theme.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\layout_menu.xml.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-mdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_vpi__tab_selected_focused_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable_ic_drawer_am.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable\\ic_drawer_am.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_tab_indicator_selected_pressed.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_vpi__tab_selected_pressed_holo.9.png.flat",
+        "source": "F:\\AndroidWork\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-ldpi\\vpi__tab_selected_pressed_holo.9.png"
+    }
+]

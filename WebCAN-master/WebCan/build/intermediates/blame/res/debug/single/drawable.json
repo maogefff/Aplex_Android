@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_bar_border.xml",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable\\loading_bar_border.xml"
+    },
+    {
+        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_am.png",
+        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable\\ic_drawer_am.png"
+    }
+]

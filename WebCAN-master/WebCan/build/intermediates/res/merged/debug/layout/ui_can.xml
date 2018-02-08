@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/viewPagerTabBackground"
+    android:orientation="vertical" >
+
+    <!-- 上半部分 :线性布局-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="vertical" >
+
+        <!-- can settings -->
+
+        <include layout="@layout/ui_can_setting" >
+        </include>
+        <!--横线-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+
+        <!-- revice data filter -->
+
+
+        <!-- data opt -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="vertical" >
+
+            <!-- first line data opt -->
+
+            <include layout="@layout/ui_can_opt1" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/divider_list" />
+            <!-- second line data opt -->
+
+            <include layout="@layout/ui_can_opt2" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="@color/sky_primary" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/divider_list" />
+    </LinearLayout>
+
+    <!-- 下半部分 -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_weight="1"
+        android:scrollbars="vertical" >
+
+        <include layout="@layout/ui_can_list" />
+    </ScrollView>
+
+</LinearLayout>

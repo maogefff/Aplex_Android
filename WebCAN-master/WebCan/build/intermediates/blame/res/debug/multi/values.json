@@ -1,0 +1,2893 @@
+[
+    {
+        "outputFile": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endLine": 37,
+                    "endColumn": 19,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endLine": 43,
+                    "endColumn": 20,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endLine": 49,
+                    "endColumn": 20,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endLine": 54,
+                    "endColumn": 19,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endLine": 58,
+                    "endColumn": 19,
+                    "endOffset": 1751
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1756,
+                    "endLine": 64,
+                    "endColumn": 20,
+                    "endOffset": 1967
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 1972,
+                    "endLine": 70,
+                    "endColumn": 20,
+                    "endOffset": 2222
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2227,
+                    "endLine": 76,
+                    "endColumn": 20,
+                    "endOffset": 2433
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2438,
+                    "endLine": 82,
+                    "endColumn": 20,
+                    "endOffset": 2644
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2649,
+                    "endLine": 88,
+                    "endColumn": 20,
+                    "endOffset": 2860
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2865,
+                    "endLine": 94,
+                    "endColumn": 20,
+                    "endOffset": 3076
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3081,
+                    "endLine": 100,
+                    "endColumn": 20,
+                    "endOffset": 3297
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3302,
+                    "endLine": 106,
+                    "endColumn": 20,
+                    "endOffset": 3508
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3513,
+                    "endLine": 112,
+                    "endColumn": 20,
+                    "endOffset": 3714
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3719,
+                    "endLine": 116,
+                    "endColumn": 19,
+                    "endOffset": 3830
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3835,
+                    "endLine": 120,
+                    "endColumn": 19,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endLine": 126,
+                    "endColumn": 20,
+                    "endOffset": 4142
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 4147,
+                    "endLine": 132,
+                    "endColumn": 20,
+                    "endOffset": 4353
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4358,
+                    "endLine": 136,
+                    "endColumn": 19,
+                    "endOffset": 4451
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 4456,
+                    "endColumn": 41,
+                    "endOffset": 4493
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 4498,
+                    "endColumn": 44,
+                    "endOffset": 4538
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4543,
+                    "endColumn": 41,
+                    "endOffset": 4580
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4585,
+                    "endColumn": 52,
+                    "endOffset": 4633
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 4638,
+                    "endColumn": 53,
+                    "endOffset": 4687
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 4692,
+                    "endColumn": 50,
+                    "endOffset": 4738
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 4743,
+                    "endColumn": 51,
+                    "endOffset": 4790
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 4795,
+                    "endColumn": 48,
+                    "endOffset": 4839
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4844,
+                    "endColumn": 48,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 4893,
+                    "endColumn": 45,
+                    "endOffset": 4934
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4939,
+                    "endLine": 151,
+                    "endColumn": 11,
+                    "endOffset": 5123
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 5128,
+                    "endColumn": 46,
+                    "endOffset": 5170
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 5175,
+                    "endLine": 157,
+                    "endColumn": 11,
+                    "endOffset": 5357
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 5362,
+                    "endColumn": 41,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endColumn": 47,
+                    "endOffset": 5447
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 5452,
+                    "endColumn": 44,
+                    "endOffset": 5492
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 5497,
+                    "endColumn": 49,
+                    "endOffset": 5542
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 5547,
+                    "endColumn": 49,
+                    "endOffset": 5592
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__attrs.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5597,
+                    "endColumn": 62,
+                    "endOffset": 5655
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 5660,
+                    "endColumn": 59,
+                    "endOffset": 5715
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 5720,
+                    "endColumn": 60,
+                    "endOffset": 5776
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 5781,
+                    "endColumn": 66,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endColumn": 62,
+                    "endOffset": 5906
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 5911,
+                    "endColumn": 46,
+                    "endOffset": 5953
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 5958,
+                    "endColumn": 44,
+                    "endOffset": 5998
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 6003,
+                    "endColumn": 46,
+                    "endOffset": 6045
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 6050,
+                    "endColumn": 45,
+                    "endOffset": 6091
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6096,
+                    "endColumn": 47,
+                    "endOffset": 6139
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 6144,
+                    "endColumn": 46,
+                    "endOffset": 6186
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 6191,
+                    "endColumn": 48,
+                    "endOffset": 6235
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 6240,
+                    "endColumn": 47,
+                    "endOffset": 6283
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6288,
+                    "endColumn": 49,
+                    "endOffset": 6333
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6338,
+                    "endColumn": 54,
+                    "endOffset": 6388
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 6393,
+                    "endColumn": 58,
+                    "endOffset": 6447
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6452,
+                    "endColumn": 51,
+                    "endOffset": 6499
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6504,
+                    "endColumn": 52,
+                    "endOffset": 6552
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6557,
+                    "endColumn": 49,
+                    "endOffset": 6602
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6607,
+                    "endColumn": 50,
+                    "endOffset": 6653
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6658,
+                    "endColumn": 49,
+                    "endOffset": 6703
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6708,
+                    "endColumn": 50,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endColumn": 57,
+                    "endOffset": 6812
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 6817,
+                    "endColumn": 50,
+                    "endOffset": 6863
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 6868,
+                    "endColumn": 51,
+                    "endOffset": 6915
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 6920,
+                    "endColumn": 50,
+                    "endOffset": 6966
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 6971,
+                    "endColumn": 51,
+                    "endOffset": 7018
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 7023,
+                    "endColumn": 51,
+                    "endOffset": 7070
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 7075,
+                    "endColumn": 52,
+                    "endOffset": 7123
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 7128,
+                    "endColumn": 57,
+                    "endOffset": 7181
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 7186,
+                    "endColumn": 53,
+                    "endOffset": 7235
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7240,
+                    "endColumn": 54,
+                    "endOffset": 7290
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 7295,
+                    "endColumn": 50,
+                    "endOffset": 7341
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 7346,
+                    "endColumn": 51,
+                    "endOffset": 7393
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 7398,
+                    "endColumn": 44,
+                    "endOffset": 7438
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 7443,
+                    "endColumn": 46,
+                    "endOffset": 7485
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 7490,
+                    "endColumn": 45,
+                    "endOffset": 7531
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7536,
+                    "endColumn": 47,
+                    "endOffset": 7579
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 7584,
+                    "endColumn": 45,
+                    "endOffset": 7625
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 7630,
+                    "endColumn": 46,
+                    "endOffset": 7672
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 7677,
+                    "endColumn": 50,
+                    "endOffset": 7723
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 7728,
+                    "endColumn": 43,
+                    "endOffset": 7767
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 7772,
+                    "endColumn": 61,
+                    "endOffset": 7829
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 7834,
+                    "endColumn": 63,
+                    "endOffset": 7893
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 7898,
+                    "endColumn": 56,
+                    "endOffset": 7950
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 7955,
+                    "endColumn": 53,
+                    "endOffset": 8004
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8009,
+                    "endColumn": 51,
+                    "endOffset": 8056
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8061,
+                    "endColumn": 53,
+                    "endOffset": 8110
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8115,
+                    "endColumn": 52,
+                    "endOffset": 8163
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 8168,
+                    "endColumn": 54,
+                    "endOffset": 8218
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 8223,
+                    "endColumn": 43,
+                    "endOffset": 8262
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8267,
+                    "endColumn": 45,
+                    "endOffset": 8308
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8313,
+                    "endColumn": 44,
+                    "endOffset": 8353
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8358,
+                    "endColumn": 46,
+                    "endOffset": 8400
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 8405,
+                    "endColumn": 43,
+                    "endOffset": 8444
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 8449,
+                    "endColumn": 45,
+                    "endOffset": 8490
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 8495,
+                    "endColumn": 44,
+                    "endOffset": 8535
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 8540,
+                    "endColumn": 46,
+                    "endOffset": 8582
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 8587,
+                    "endColumn": 71,
+                    "endOffset": 8654
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 8659,
+                    "endColumn": 71,
+                    "endOffset": 8726
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 8731,
+                    "endColumn": 73,
+                    "endOffset": 8800
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 8805,
+                    "endColumn": 73,
+                    "endOffset": 8874
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 8879,
+                    "endColumn": 75,
+                    "endOffset": 8950
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 8955,
+                    "endColumn": 72,
+                    "endOffset": 9023
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 9028,
+                    "endColumn": 74,
+                    "endOffset": 9098
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 9103,
+                    "endColumn": 70,
+                    "endOffset": 9169
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 9174,
+                    "endColumn": 78,
+                    "endOffset": 9248
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 9253,
+                    "endColumn": 46,
+                    "endOffset": 9295
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 9300,
+                    "endColumn": 50,
+                    "endOffset": 9346
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 9351,
+                    "endColumn": 52,
+                    "endOffset": 9399
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 9404,
+                    "endColumn": 44,
+                    "endOffset": 9444
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 9449,
+                    "endColumn": 46,
+                    "endOffset": 9491
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 9496,
+                    "endColumn": 45,
+                    "endOffset": 9537
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 9542,
+                    "endColumn": 47,
+                    "endOffset": 9585
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 9590,
+                    "endColumn": 44,
+                    "endOffset": 9630
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 9635,
+                    "endColumn": 46,
+                    "endOffset": 9677
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 9682,
+                    "endColumn": 45,
+                    "endOffset": 9723
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 9728,
+                    "endColumn": 47,
+                    "endOffset": 9771
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 9776,
+                    "endColumn": 45,
+                    "endOffset": 9817
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 9822,
+                    "endColumn": 46,
+                    "endOffset": 9864
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 9869,
+                    "endColumn": 54,
+                    "endOffset": 9919
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 9924,
+                    "endColumn": 54,
+                    "endOffset": 9974
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 9979,
+                    "endColumn": 52,
+                    "endOffset": 10027
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 10032,
+                    "endColumn": 52,
+                    "endOffset": 10080
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 10085,
+                    "endColumn": 53,
+                    "endOffset": 10134
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 10139,
+                    "endColumn": 50,
+                    "endOffset": 10185
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 10190,
+                    "endColumn": 54,
+                    "endOffset": 10240
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 10245,
+                    "endColumn": 59,
+                    "endOffset": 10300
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 10305,
+                    "endColumn": 40,
+                    "endOffset": 10341
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10346,
+                    "endColumn": 45,
+                    "endOffset": 10387
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 10392,
+                    "endColumn": 47,
+                    "endOffset": 10435
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 10440,
+                    "endColumn": 46,
+                    "endOffset": 10482
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 10487,
+                    "endColumn": 48,
+                    "endOffset": 10531
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 10536,
+                    "endColumn": 43,
+                    "endOffset": 10575
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 10580,
+                    "endColumn": 45,
+                    "endOffset": 10621
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 10626,
+                    "endColumn": 44,
+                    "endOffset": 10666
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 10671,
+                    "endColumn": 46,
+                    "endOffset": 10713
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 10718,
+                    "endColumn": 42,
+                    "endOffset": 10756
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 10761,
+                    "endColumn": 44,
+                    "endOffset": 10801
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 10806,
+                    "endColumn": 43,
+                    "endOffset": 10845
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 10850,
+                    "endColumn": 45,
+                    "endOffset": 10891
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 10896,
+                    "endColumn": 42,
+                    "endOffset": 10934
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 10939,
+                    "endColumn": 44,
+                    "endOffset": 10979
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 10984,
+                    "endColumn": 43,
+                    "endOffset": 11023
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 11028,
+                    "endColumn": 45,
+                    "endOffset": 11069
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 11074,
+                    "endColumn": 43,
+                    "endOffset": 11113
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 11118,
+                    "endColumn": 45,
+                    "endOffset": 11159
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 11164,
+                    "endColumn": 44,
+                    "endOffset": 11204
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 11209,
+                    "endColumn": 46,
+                    "endOffset": 11251
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 11256,
+                    "endColumn": 51,
+                    "endOffset": 11303
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 11308,
+                    "endColumn": 56,
+                    "endOffset": 11360
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 11365,
+                    "endColumn": 59,
+                    "endOffset": 11420
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 11425,
+                    "endColumn": 61,
+                    "endOffset": 11482
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 11487,
+                    "endColumn": 62,
+                    "endOffset": 11545
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 11550,
+                    "endColumn": 77,
+                    "endOffset": 11623
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 11628,
+                    "endColumn": 78,
+                    "endOffset": 11702
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 11707,
+                    "endColumn": 92,
+                    "endOffset": 11795
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 11800,
+                    "endColumn": 92,
+                    "endOffset": 11888
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 11893,
+                    "endColumn": 107,
+                    "endOffset": 11996
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 12001,
+                    "endColumn": 107,
+                    "endOffset": 12104
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 18707,
+                    "endColumn": 57,
+                    "endOffset": 18760
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 18765,
+                    "endColumn": 55,
+                    "endOffset": 18816
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 18821,
+                    "endColumn": 61,
+                    "endOffset": 18878
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 18883,
+                    "endColumn": 67,
+                    "endOffset": 18946
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 18951,
+                    "endColumn": 62,
+                    "endOffset": 19009
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 19014,
+                    "endColumn": 64,
+                    "endOffset": 19074
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 19079,
+                    "endColumn": 65,
+                    "endOffset": 19140
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 19145,
+                    "endColumn": 66,
+                    "endOffset": 19207
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 19212,
+                    "endColumn": 77,
+                    "endOffset": 19285
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 19290,
+                    "endColumn": 89,
+                    "endOffset": 19375
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 19380,
+                    "endColumn": 72,
+                    "endOffset": 19448
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 19453,
+                    "endColumn": 68,
+                    "endOffset": 19517
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 19522,
+                    "endColumn": 64,
+                    "endOffset": 19582
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 19587,
+                    "endColumn": 67,
+                    "endOffset": 19650
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 19655,
+                    "endColumn": 65,
+                    "endOffset": 19716
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 19721,
+                    "endColumn": 42,
+                    "endOffset": 19759
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\ids.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 19764,
+                    "endColumn": 68,
+                    "endOffset": 19828
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 19833,
+                    "endColumn": 78,
+                    "endOffset": 19907
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 19912,
+                    "endColumn": 69,
+                    "endOffset": 19977
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 19982,
+                    "endColumn": 72,
+                    "endOffset": 20050
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 20055,
+                    "endColumn": 73,
+                    "endOffset": 20124
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__defaults.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 20129,
+                    "endColumn": 49,
+                    "endOffset": 20174
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 20179,
+                    "endColumn": 49,
+                    "endOffset": 20224
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 20229,
+                    "endColumn": 52,
+                    "endOffset": 20277
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 20282,
+                    "endColumn": 39,
+                    "endOffset": 20317
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 20322,
+                    "endColumn": 47,
+                    "endOffset": 20365
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 20370,
+                    "endColumn": 43,
+                    "endOffset": 20409
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 20414,
+                    "endColumn": 45,
+                    "endOffset": 20455
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 20460,
+                    "endColumn": 48,
+                    "endOffset": 20504
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 20509,
+                    "endColumn": 52,
+                    "endOffset": 20557
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 20562,
+                    "endColumn": 60,
+                    "endOffset": 20618
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 20623,
+                    "endColumn": 62,
+                    "endOffset": 20681
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 20686,
+                    "endColumn": 70,
+                    "endOffset": 20752
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 20757,
+                    "endColumn": 64,
+                    "endOffset": 20817
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 20822,
+                    "endColumn": 54,
+                    "endOffset": 20872
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 20877,
+                    "endColumn": 39,
+                    "endOffset": 20912
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 20917,
+                    "endColumn": 39,
+                    "endOffset": 20952
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 20957,
+                    "endColumn": 43,
+                    "endOffset": 20996
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 21001,
+                    "endColumn": 64,
+                    "endOffset": 21061
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 21066,
+                    "endColumn": 43,
+                    "endOffset": 21105
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 21110,
+                    "endColumn": 75,
+                    "endOffset": 21181
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 21186,
+                    "endColumn": 50,
+                    "endOffset": 21232
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 21237,
+                    "endColumn": 48,
+                    "endOffset": 21281
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 21286,
+                    "endColumn": 75,
+                    "endOffset": 21357
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 21362,
+                    "endColumn": 47,
+                    "endOffset": 21405
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 21410,
+                    "endColumn": 52,
+                    "endOffset": 21458
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 21463,
+                    "endColumn": 56,
+                    "endOffset": 21515
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 21520,
+                    "endColumn": 56,
+                    "endOffset": 21572
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 21577,
+                    "endColumn": 45,
+                    "endOffset": 21618
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 21623,
+                    "endColumn": 51,
+                    "endOffset": 21670
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 21675,
+                    "endColumn": 49,
+                    "endOffset": 21720
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 21725,
+                    "endColumn": 37,
+                    "endOffset": 21758
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 21763,
+                    "endColumn": 46,
+                    "endOffset": 21805
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 21810,
+                    "endColumn": 39,
+                    "endOffset": 21845
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 21850,
+                    "endColumn": 40,
+                    "endOffset": 21886
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 21891,
+                    "endColumn": 49,
+                    "endOffset": 21936
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 21941,
+                    "endColumn": 49,
+                    "endOffset": 21986
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 21991,
+                    "endLine": 401,
+                    "endColumn": 12,
+                    "endOffset": 22396
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 22401,
+                    "endLine": 404,
+                    "endColumn": 12,
+                    "endOffset": 22556
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 22561,
+                    "endLine": 411,
+                    "endColumn": 12,
+                    "endOffset": 22838
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 22843,
+                    "endLine": 417,
+                    "endColumn": 12,
+                    "endOffset": 23087
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 23092,
+                    "endLine": 430,
+                    "endColumn": 12,
+                    "endOffset": 23866
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2929,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 3715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 23871,
+                    "endLine": 433,
+                    "endColumn": 12,
+                    "endOffset": 24020
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 24025,
+                    "endLine": 443,
+                    "endColumn": 12,
+                    "endOffset": 24500
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 24505,
+                    "endLine": 449,
+                    "endColumn": 12,
+                    "endOffset": 24757
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 24762,
+                    "endLine": 455,
+                    "endColumn": 12,
+                    "endOffset": 25092
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 25097,
+                    "endLine": 458,
+                    "endColumn": 12,
+                    "endOffset": 25203
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 25208,
+                    "endLine": 465,
+                    "endColumn": 12,
+                    "endOffset": 25709
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 25714,
+                    "endLine": 469,
+                    "endColumn": 12,
+                    "endOffset": 25909
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 25914,
+                    "endLine": 473,
+                    "endColumn": 12,
+                    "endOffset": 26162
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 26167,
+                    "endLine": 475,
+                    "endColumn": 12,
+                    "endOffset": 26201
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 26206,
+                    "endLine": 479,
+                    "endColumn": 12,
+                    "endOffset": 26391
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 26396,
+                    "endLine": 490,
+                    "endColumn": 12,
+                    "endOffset": 26993
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\vpi__styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 26998,
+                    "endLine": 497,
+                    "endColumn": 12,
+                    "endOffset": 27289
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 27294,
+                    "endLine": 507,
+                    "endColumn": 12,
+                    "endOffset": 27850
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 27855,
+                    "endLine": 518,
+                    "endColumn": 12,
+                    "endOffset": 28425
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
