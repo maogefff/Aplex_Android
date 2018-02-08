@@ -1,0 +1,157 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#F0F0F0">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="OUT"
+            android:textColor="@color/bg_black"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/out1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SetOut0_H"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+        <Button
+            android:id="@+id/out2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SetOut1_H"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+        <Button
+            android:id="@+id/out3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SetOut2_H"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+        <Button
+            android:id="@+id/out4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="SetOut3_H"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:id="@+id/line_id"
+                android:layout_height="30dp"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/logo_id"
+                android:src="@mipmap/ic_launcher"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Aplex"
+                android:textColor="@color/bg_black"
+                android:textSize="25sp"
+                android:layout_gravity="center"
+                android:gravity="center"/>
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="IN"
+            android:textColor="@color/bg_black"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/in1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="GetIn0_L"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+        <Button
+            android:id="@+id/in2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="GetIn1_L"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+        <Button
+            android:id="@+id/in3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="GetIn2_L"
+            android:textSize="20sp"
+            android:width="230dp" />
+
+        <Button
+            android:id="@+id/in4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="GetIn3_L"
+            android:textSize="20sp"
+            android:width="230dp" />
+    </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp"
+        android:text="自动测试"
+        android:id="@+id/autoGpio"/>
+
+</LinearLayout>
