@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\workcode\AndroidStudio\WebCAN-master\WebCan\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\workcode\Aplex_Android\WebCAN-master\WebCan\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\workcode\Aplex_Android\WebCAN-master\WebCan\src\debug\shaders"/></dataSet></merger>

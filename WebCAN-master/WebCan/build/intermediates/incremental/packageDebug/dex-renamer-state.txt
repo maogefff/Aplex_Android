@@ -1,7 +1,4 @@
-#Mon Jan 22 08:45:51 CST 2018
-base.0=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14cb825473510f6addb69401ae20e914fbd6ccc0
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a69b5718dfa333c05953b3781ab7fdf030e135f8\\classes.dex
-base.1=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a69b5718dfa333c05953b3781ab7fdf030e135f8
-file.0=E\:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14cb825473510f6addb69401ae20e914fbd6ccc0\\classes.dex
+#Mon Mar 05 15:46:10 CST 2018
+base.0=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

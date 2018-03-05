@@ -17,6 +17,8 @@ public final class R {
         public static final int can_devices=0x7f050005;
         public static final int can_format=0x7f050006;
         public static final int candy=0x7f050007;
+        /**  really much lighter color of main color 
+         */
         public static final int custom_theme=0x7f050008;
         public static final int dark=0x7f050009;
         public static final int deep=0x7f05000a;

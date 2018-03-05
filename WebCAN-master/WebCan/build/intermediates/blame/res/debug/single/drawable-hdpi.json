@@ -1,42 +1,42 @@
 [
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aplex_logo.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\aplex_logo.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_divider.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_divider.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_focused.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_focused.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_focused.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_focused.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_log.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\ic_log.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected_pressed.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_unselected.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_unselected.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\aplex_logo.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\aplex_logo.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_divider.9.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_divider.9.png"
     },
     {
-        "merged": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png",
-        "source": "E:\\workcode\\AndroidStudio\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\custom_tab_indicator_selected_pressed.9.png"
+        "merged": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_log.png",
+        "source": "E:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\src\\main\\res\\drawable-hdpi\\ic_log.png"
     }
 ]
