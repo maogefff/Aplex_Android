@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\aplex\Desktop\1\2\Aplex_Android\HeatMachine\HeatMachine\libs\AplexChecking.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6fb0a06f6a1aedbee9fafc0eac7b55c5eb4a488b">
+        <dex dex="C:\Users\aplex\Desktop\1\2\Aplex_Android\HeatMachine\HeatMachine\build\intermediates\pre-dexed\debug\AplexChecking_1a31421d236600577640459e89d16b082713e686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\Android\Androidstudio2.3sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\workcode\AndroidStudio\1\HeatMachine1\HeatMachine\build\intermediates\pre-dexed\debug\support-v4-18.0.0_3af4b4854776c839108b6140b2931f1bc67ed3dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workcode\AndroidStudio\1\HeatMachine1\HeatMachine\libs\AplexChecking.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6fb0a06f6a1aedbee9fafc0eac7b55c5eb4a488b">
+        <dex dex="E:\workcode\AndroidStudio\1\HeatMachine1\HeatMachine\build\intermediates\pre-dexed\debug\AplexChecking_05637f78a11d131228842e19eb70e2fcfa60c5c2.jar" />
+    </item>
+
+</items>

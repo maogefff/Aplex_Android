@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\aplex\\Desktop\\1\\2\\Aplex_Android\\HeatMachine\\HeatMachine\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\aplex\\Desktop\\1\\2\\Aplex_Android\\HeatMachine\\HeatMachine\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\workcode\\AndroidStudio\\1\\HeatMachine1\\HeatMachine\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "E:\\workcode\\AndroidStudio\\1\\HeatMachine1\\HeatMachine\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]

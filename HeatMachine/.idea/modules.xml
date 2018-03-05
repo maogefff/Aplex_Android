@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HeatMachine.iml" filepath="$PROJECT_DIR$/.idea/HeatMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aplex_Android-HeatMachine.iml" filepath="$PROJECT_DIR$/Aplex_Android-HeatMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeatMachine/HeatMachine-HeatMachine.iml" filepath="$PROJECT_DIR$/HeatMachine/HeatMachine-HeatMachine.iml" />
     </modules>
   </component>
 </project>
