@@ -18,6 +18,8 @@ package android_serialport_api.sample;
 
 import java.io.IOException;
 
+import android.content.SharedPreferences;
+import android.nfc.Tag;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -29,12 +31,16 @@ import android.widget.TextView.OnEditorActionListener;
 
 public class ConsoleActivity extends SerialPortActivity {
 
+	private String TAG = "ConsoleActivity";
 	EditText mReception;
 	EditText Emission;
 	Button mSend;
 	Button mSendSeries;
 	CharSequence t;
 	ConsoleThread mConsoleThread;
+	TextView mdevice;
+	TextView mbaudrate;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -45,6 +51,14 @@ public class ConsoleActivity extends SerialPortActivity {
 		mSend = (Button) findViewById(R.id.ButtonSend);
 		mSendSeries = (Button) findViewById(R.id.ButtonSendSeries);
 		Emission = (EditText) findViewById(R.id.EditTextEmission);
+		mdevice = (TextView) findViewById(R.id.DeviceID);
+		mbaudrate = (TextView)findViewById(R.id.BaudRateID);
+
+		SharedPreferences sp = getSharedPreferences("android_serialport_api.sample_preferences", MODE_PRIVATE);
+		String path = sp.getString("DEVICE", "NULL");
+		int baudrate = Integer.decode(sp.getString("BAUDRATE", "-1"));
+		mdevice.setText(path);
+		mbaudrate.setText(String.valueOf(baudrate));
 
 		mSend.setOnClickListener(new View.OnClickListener() {
 			public static final String TAG = "setOnClickListener";

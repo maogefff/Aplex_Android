@@ -5,362 +5,12 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c501fd5-51ba-4f8a-9f81-997f0fa67dd1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/generated/mockable-android-22.v3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/blame/res/debug/single/debug.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes-jar/debug/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/SerialPort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/SerialPortFinder$Driver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/SerialPortFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/ConsoleActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/ConsoleActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/ConsoleActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/ConsoleActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/ConsoleActivity$ConsoleThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/ConsoleActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/LoopbackActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/LoopbackActivity$SendingThread$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/LoopbackActivity$SendingThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/LoopbackActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/Sending01010101Activity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/Sending01010101Activity$SendingThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/Sending01010101Activity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/SerialPortActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/SerialPortActivity$ReadThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/SerialPortActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/SerialPortPreferences$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/SerialPortPreferences$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental-verifier/debug/android_serialport_api/sample/SerialPortPreferences.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/lmlf+XKviJpVqtIzFsjuy9Rv++s=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_0/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_1/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_2/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_3/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_4/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_5/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_6/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_7/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_8/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/instant-run-support/debug/slice_9/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/javaPrecompile/androidTest/debug/annotationProcessors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/javaPrecompile/test/debug/annotationProcessors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/manifests/density/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/manifests/full/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/manifests/instant-run/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/debug/resources-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/restart-dex/debug/build-info.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/splits-support/androidTest/debug/split-list.gson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/splits-support/debug/split-list.gson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b2858eefb7ccee3a91445d6cc465b90e36e68ce9/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d90ceb7c98276c4c1fab901c43902863770d0e15/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/SerialPort.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/SerialPortFinder$Driver.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/SerialPortFinder.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/Application.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/BuildConfig.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/ConsoleActivity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/ConsoleActivity$2.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/ConsoleActivity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/LoopbackActivity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/LoopbackActivity$SendingThread$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/LoopbackActivity$SendingThread.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/LoopbackActivity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu$2.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu$3.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu$4.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu$5.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu$6.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/MainMenu.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R$xml.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/Sending01010101Activity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/Sending01010101Activity$SendingThread.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/Sending01010101Activity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/SerialPortActivity$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/SerialPortActivity$ReadThread.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/SerialPortActivity.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/SerialPortPreferences$1.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/SerialPortPreferences$2.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/0/android_serialport_api/sample/SerialPortPreferences.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/SerialPort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/SerialPortFinder$Driver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/SerialPortFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/ConsoleActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/ConsoleActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/ConsoleActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/ConsoleActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/ConsoleActivity$ConsoleThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/ConsoleActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/LoopbackActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/LoopbackActivity$SendingThread$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/LoopbackActivity$SendingThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/LoopbackActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/Sending01010101Activity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/Sending01010101Activity$SendingThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/Sending01010101Activity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/SerialPortActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/SerialPortActivity$ReadThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/SerialPortActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/SerialPortPreferences$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/SerialPortPreferences$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android_serialport_api/sample/SerialPortPreferences.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android_serialport_api/SerialPort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android_serialport_api/SerialPortFinder$Driver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/android_serialport_api/SerialPortFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/ConsoleActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/ConsoleActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/ConsoleActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/ConsoleActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/ConsoleActivity$ConsoleThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/ConsoleActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/LoopbackActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/LoopbackActivity$SendingThread$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/LoopbackActivity$SendingThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/LoopbackActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/Sending01010101Activity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/Sending01010101Activity$SendingThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/Sending01010101Activity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/SerialPortActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/SerialPortActivity$ReadThread.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/SerialPortActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/SerialPortPreferences$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/SerialPortPreferences$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/android_serialport_api/sample/SerialPortPreferences.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/buildId.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/outputs/apk/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MainMenu/build/tmp/bundleAppClassesDebug/MANIFEST.MF" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_MainMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_MainMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_MainMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_MainMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_MainMenu_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_MainMenu_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/SerialPortFinder.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/SerialPortFinder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$1.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$2.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$3.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$4.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$ConsoleThread.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity$ConsoleThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/ConsoleActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/LoopbackActivity.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/LoopbackActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/MainMenu$5.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/MainMenu$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/MainMenu.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/MainMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$drawable.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$id.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$layout.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$string.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$xml.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortActivity$1.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortActivity$ReadThread.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortActivity$ReadThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortActivity.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortPreferences$1.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortPreferences$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortPreferences$2.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortPreferences$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortPreferences.class" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/classes/debug/android_serialport_api/sample/SerialPortPreferences.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageDebug/zip-cache/lmlf+XKviJpVqtIzFsjuy9Rv++s=" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageDebug/zip-cache/lmlf+XKviJpVqtIzFsjuy9Rv++s=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips64/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips64/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips64/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips64/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/objs-debug/serial_port/SerialPort.o" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/objs-debug/serial_port/SerialPort.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips64/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/mips64/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86_64/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86_64/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/arm64-v8a/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/arm64-v8a/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi-v7a/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/mips/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/mips/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/mips64/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/mips64/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86_64/libserial_port.so" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/x86_64/libserial_port.so" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/outputs/apk/MainMenu-debug.apk" afterPath="$PROJECT_DIR$/MainMenu/build/outputs/apk/MainMenu-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/arm64-v8a/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/arm64-v8a/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/armeabi-v7a/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/armeabi/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/armeabi/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/mips/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/mips/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/mips64/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/mips64/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/x86/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/x86/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/x86_64/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/debug/x86_64/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/arm64-v8a/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/arm64-v8a/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/armeabi-v7a/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/armeabi/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/armeabi/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/mips/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/mips/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/mips64/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/mips64/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/x86/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/x86/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/x86_64/ndkBuild_build_output.txt" afterPath="$PROJECT_DIR$/MainMenu/.externalNativeBuild/ndkBuild/release/x86_64/ndkBuild_build_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/MainMenu.iml" afterPath="$PROJECT_DIR$/MainMenu/MainMenu.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/generated/source/r/debug/android_serialport_api/sample/R.java" afterPath="$PROJECT_DIR$/MainMenu/build/generated/source/r/debug/android_serialport_api/sample/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/armeabi/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips64/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/mips64/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/objs-debug/serial_port/SerialPort.o.d" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/ndkBuild/debug/obj/local/x86_64/objs-debug/serial_port/SerialPort.o.d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/merged/debug/layout/console.xml" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/res/merged/debug/layout/console.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/MainMenu/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/MainMenu/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPortFinder.java" afterPath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPortFinder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java" afterPath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortActivity.java" afterPath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortPreferences.java" afterPath="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortPreferences.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MainMenu/src/main/res/layout/console.xml" afterPath="$PROJECT_DIR$/MainMenu/src/main/res/layout/console.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-    </list>
+    <list default="true" id="4c501fd5-51ba-4f8a-9f81-997f0fa67dd1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -389,105 +39,121 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SerialPort.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/SerialPort.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2318">
-              <caret line="122" column="33" lean-forward="false" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SerialPort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SerialPortFinder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPortFinder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-91">
-              <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="-24">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
-                <element signature="e#1517#1518#0" expanded="true" />
-                <element signature="e#2373#2381#0" expanded="true" />
-                <element signature="e#2975#2983#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SerialPort.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/SerialPort.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/res/layout/main.xml">
+          <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <file leaf-file-name="ConsoleActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="921">
+              <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2584#2761#0" expanded="true" />
+                <element signature="e#2760#2761#0" expanded="true" />
+                <element signature="e#2802#2957#0" expanded="true" />
+                <element signature="e#2956#2957#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/software/Android/Androidstudio2.3sdk/sources/android-22/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="59" column="19" lean-forward="false" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MainMenu/build.gradle">
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
+        <entry file="file://D:/software/Android/Androidstudio2.3sdk/sources/android-22/android/content/Context.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="76" column="28" lean-forward="false" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SerialPortActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-912">
+              <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <element signature="e#1973#2103#0" expanded="true" />
+                <element signature="e#2102#2103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loopback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/res/layout/loopback.xml">
+          <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/res/layout/console.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoopbackActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/LoopbackActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/MainMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -495,18 +161,24 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getSharedPreferences</find>
+      <find>DisplayError</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\aplex\.gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\aplex\.gradle\wrapper\dists\gradle-3.5-all\exhrs6ca08n232b14ue48lbye\gradle-3.5" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="3.3" />
+        <entry key="$PROJECT_DIR$" value="3.5" />
       </map>
     </option>
     <option name="availableProjects">
@@ -592,7 +264,7 @@
                 <option name="name" value="compileDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="description" value="Initializes a new Gradle build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
@@ -871,7 +543,7 @@
                 <option name="name" value="mergeDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
@@ -2024,141 +1696,142 @@
               <option name="name" value="android-serialport-api-master" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/build-cache-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/composite-builds" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ide-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/installation-beacon" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-android-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/jetty" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/jvm-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/logging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/open-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/process-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/testing-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/testing-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/ui" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/workers" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/ant-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/ant-launcher-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-base-services-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-base-services-groovy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-cli-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-core-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-docs-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-installation-beacon-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-jvm-services-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-launcher-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-logging-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-messaging-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-model-core-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-model-groovy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-open-api-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-process-services-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-resources-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-script-kotlin-0.5.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-tooling-api-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-ui-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-version-info-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/gradle-wrapper-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/groovy-all-2.4.7.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-announce-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-antlr-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-build-cache-http-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-build-comparison-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-build-init-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-code-quality-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-composite-builds-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-dependency-management-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-diagnostics-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ear-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ide-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ide-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ide-play-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-ivy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-jacoco-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-javascript-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-jetty-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-groovy-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-java-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-jvm-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-language-scala-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-maven-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-osgi-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-base-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-jvm-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-platform-play-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-plugin-development-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-plugin-use-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-plugins-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-publish-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-reporting-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-resources-http-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-resources-s3-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-resources-sftp-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-scala-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-signing-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-test-kit-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-testing-base-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-testing-jvm-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-testing-native-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-tooling-api-builders-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/gradle-workers-3.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-base-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-base-services-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-cli-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-docs-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-installation-beacon-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-jvm-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-launcher-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-logging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-messaging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-model-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-model-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-open-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-process-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-resources-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-runtime-api-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-script-kotlin-0.8.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-tooling-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-ui-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-version-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/gradle-wrapper-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/groovy-all-2.4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-announce-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-antlr-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-build-cache-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-build-comparison-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-build-init-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-code-quality-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-composite-builds-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-dependency-management-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-diagnostics-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-ear-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-ide-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-ide-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-ide-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-ivy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-jacoco-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-javascript-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-jetty-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-language-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-language-java-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-language-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-language-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-language-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-maven-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-osgi-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-platform-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-platform-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-platform-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-platform-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-plugin-development-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-plugin-use-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-plugins-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-publish-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-reporting-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-resources-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-resources-s3-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-resources-sftp-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-signing-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-test-kit-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-testing-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-testing-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-testing-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-tooling-api-builders-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/gradle-workers-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-all/exhrs6ca08n232b14ue48lbye/gradle-3.5/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -2178,6 +1851,9 @@
         <option value="$PROJECT_DIR$/MainMenu/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/MainMenu/src/main/jni/Android.mk" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/MainMenu/src/main/res/layout/console.xml" />
+        <option value="$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java" />
       </list>
     </option>
   </component>
@@ -2203,65 +1879,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-serialport-api-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-serialport-api-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MainMenu" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-serialport-api-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MainMenu" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cpp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidJniFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android-serialport-api-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MainMenu" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android_serialport_api" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2374,6 +1993,113 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Build Files" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.ndk.ExternalBuildFilesGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android_serialport_api" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-serialport-api-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainMenu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android_serialport_api" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2384,6 +2110,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.2.3" />
     <property name="device.picker.selection" value="041a29d4ea9b7067" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2468,7 +2195,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520214902308" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520218039863" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2516,7 +2243,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520214902308" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520218039863" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2699,7 +2426,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520214902309" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520218039864" />
       </method>
     </configuration>
     <list size="1">
@@ -2738,21 +2465,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34811828" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2791,87 +2519,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPortFinder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#2373#2381#0" expanded="true" />
-            <element signature="e#2975#2983#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2880,7 +2533,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2912,7 +2567,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2928,7 +2585,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2938,8 +2597,6 @@
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#2373#2381#0" expanded="true" />
-            <element signature="e#2975#2983#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3054,14 +2711,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java">
@@ -3079,37 +2736,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="76" column="13" lean-forward="false" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-          <folding />
-        </state>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/SerialPort.h">
@@ -3127,41 +2762,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/SerialPort.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="122" column="33" lean-forward="false" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/Android.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/Application.mk">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -3174,38 +2802,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/Android.mk">
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/jni/SerialPort.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2318">
-          <caret line="122" column="33" lean-forward="false" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+        <state relative-caret-position="95">
+          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPortFinder.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
-          <folding>
-            <element signature="e#1517#1518#0" expanded="true" />
-            <element signature="e#2373#2381#0" expanded="true" />
-            <element signature="e#2975#2983#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        <state relative-caret-position="969">
+          <caret line="65" column="52" lean-forward="false" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/SerialPortFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+          <folding>
+            <element signature="e#1517#1518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/Sending01010101Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortPreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/res/layout/main.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/res/layout/loopback.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/res/layout/console.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/SerialPortActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#1973#2103#0" expanded="true" />
+            <element signature="e#2102#2103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/Android/Androidstudio2.3sdk/sources/android-22/android/content/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="76" column="28" lean-forward="false" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/Android/Androidstudio2.3sdk/sources/android-22/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="59" column="19" lean-forward="false" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/MainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/LoopbackActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainMenu/src/main/java/android_serialport_api/sample/ConsoleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="921">
+          <caret line="72" column="21" lean-forward="false" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2584#2761#0" expanded="true" />
+            <element signature="e#2760#2761#0" expanded="true" />
+            <element signature="e#2802#2957#0" expanded="true" />
+            <element signature="e#2956#2957#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

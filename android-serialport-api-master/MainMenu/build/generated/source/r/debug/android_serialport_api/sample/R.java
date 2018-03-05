@@ -71,30 +71,32 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int Button01010101=0x7f080014;
-        public static final int ButtonAbout=0x7f080015;
-        public static final int ButtonConsole=0x7f080012;
-        public static final int ButtonLoopback=0x7f080013;
-        public static final int ButtonQuit=0x7f080016;
-        public static final int ButtonSend=0x7f080002;
-        public static final int ButtonSendSeries=0x7f080003;
-        public static final int ButtonSetup=0x7f080011;
-        public static final int EditTextEmission=0x7f080001;
-        public static final int EditTextReception=0x7f080000;
-        public static final int LinearLayoutOutgoing=0x7f080004;
-        public static final int LinearLayoutReceived=0x7f080007;
-        public static final int TextViewIncoming=0x7f080008;
-        public static final int TextViewIncomingValue=0x7f080009;
-        public static final int TextViewOutgoing=0x7f080005;
-        public static final int TextViewOutgoingValue=0x7f080006;
-        public static final int linearLayout1=0x7f080010;
-        public static final int linearLayoutCorrupted=0x7f08000d;
-        public static final int linearLayoutLost=0x7f08000a;
-        public static final int textView1=0x7f080017;
-        public static final int textViewCorrupted=0x7f08000e;
-        public static final int textViewCorruptedValue=0x7f08000f;
-        public static final int textViewLost=0x7f08000b;
-        public static final int textViewLostValue=0x7f08000c;
+        public static final int BaudRateID=0x7f080001;
+        public static final int Button01010101=0x7f080016;
+        public static final int ButtonAbout=0x7f080017;
+        public static final int ButtonConsole=0x7f080014;
+        public static final int ButtonLoopback=0x7f080015;
+        public static final int ButtonQuit=0x7f080018;
+        public static final int ButtonSend=0x7f080004;
+        public static final int ButtonSendSeries=0x7f080005;
+        public static final int ButtonSetup=0x7f080013;
+        public static final int DeviceID=0x7f080000;
+        public static final int EditTextEmission=0x7f080003;
+        public static final int EditTextReception=0x7f080002;
+        public static final int LinearLayoutOutgoing=0x7f080006;
+        public static final int LinearLayoutReceived=0x7f080009;
+        public static final int TextViewIncoming=0x7f08000a;
+        public static final int TextViewIncomingValue=0x7f08000b;
+        public static final int TextViewOutgoing=0x7f080007;
+        public static final int TextViewOutgoingValue=0x7f080008;
+        public static final int linearLayout1=0x7f080012;
+        public static final int linearLayoutCorrupted=0x7f08000f;
+        public static final int linearLayoutLost=0x7f08000c;
+        public static final int textView1=0x7f080019;
+        public static final int textViewCorrupted=0x7f080010;
+        public static final int textViewCorruptedValue=0x7f080011;
+        public static final int textViewLost=0x7f08000d;
+        public static final int textViewLostValue=0x7f08000e;
     }
     public static final class layout {
         public static final int console=0x7f030000;
