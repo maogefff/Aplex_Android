@@ -29,15 +29,6 @@
         <dex dex="E:\workcode\AndroidStudio\WebCAN-master\WebCan\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_2c624246eae0d21d1a53a0ff9bc2331c8d24b3c7\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\aplex\.android\build-cache\2ed835e3729e9f6e0068d32020dcf25c7115bd9d\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="E:\workcode\Aplex_Android\WebCAN-master\WebCan\build\intermediates\pre-dexed\debug\classes_5a158f0acad646e629e8e8e1134f5530c28fa186.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="E:\workcode\AndroidStudio\WebCAN-master\WebCan\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
@@ -57,12 +48,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\software\Android\Androidstudio2.3sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="E:\workcode\Aplex_Android\WebCAN-master\WebCan\libs\RootTools.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="E:\workcode\Aplex_Android\WebCAN-master\WebCan\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661.jar" />
+        sha1="16b2d49a7359c9ddbfcb1bc66f9c342c502e821b">
+        <dex dex="E:\workcode\Aplex_Android\WebCAN-master\WebCan\build\intermediates\pre-dexed\debug\RootTools_17578a9fe7df719026ab0a5e0a066338a60b31b5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,15 +63,6 @@
         revision="27.0.1"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
         <dex dex="E:\workcode\Aplex_Android\WebCAN-master\WebCan\build\intermediates\pre-dexed\debug\gson_2.2.4_7e8b6e9951d6b144baa413f7eda8e1620451774d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\aplex\.android\build-cache\2ed835e3729e9f6e0068d32020dcf25c7115bd9d\output\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="E:\workcode\Aplex_Android\WebCAN-master\WebCan\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_2c624246eae0d21d1a53a0ff9bc2331c8d24b3c7.jar" />
     </item>
     <item
         is-multidex="true"

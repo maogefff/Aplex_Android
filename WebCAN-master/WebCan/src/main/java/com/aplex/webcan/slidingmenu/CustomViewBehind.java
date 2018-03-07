@@ -215,24 +215,7 @@ public class CustomViewBehind extends ViewGroup {
 
 	public void scrollBehindTo(View content, int x, int y) {
 		int vis = View.VISIBLE;
-		if(content==null)
-		{
-			Log.e("hj...", "content为空");
-		}else{
-			Log.e("hj...", "content不为空");
-		}
-		if(mContent==null)
-		{
-			Log.e("hj...", "mContent为空");
-		}else{
-			Log.e("hj...", "mContent不为空");
-		}
-		if(mSecondaryContent==null)
-		{
-			Log.e("hj...", "mSecondaryContent为空");
-		}else{
-			Log.e("hj...", "mSecondaryContent不为空");
-		}
+
 		if (mMode == SlidingMenu.LEFT) {
 			if (x >= content.getLeft()) vis = View.INVISIBLE;
 			scrollTo((int)((x + getBehindWidth())*mScrollScale), y);

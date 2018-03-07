@@ -1,16 +1,19 @@
-#Mon Mar 05 15:42:41 CST 2018
-renamed.4=classes5.dex
-renamed.3=classes3.dex
-renamed.2=classes.dex
-renamed.1=classes4.dex
-base.4=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\hyphenatechat_3.1.4_91e529a9120a8061005d6445f1f72d7418d53f3d
+#Wed Mar 07 10:48:04 CST 2018
+renamed.5=classes5.dex
+renamed.4=classes3.dex
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes6.dex
 renamed.0=classes2.dex
-base.3=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661
-base.2=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a158f0acad646e629e8e8e1134f5530c28fa186
-base.1=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson_2.2.4_7e8b6e9951d6b144baa413f7eda8e1620451774d
+base.5=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\hyphenatechat_3.1.4_91e529a9120a8061005d6445f1f72d7418d53f3d
+base.4=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661
+base.3=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a158f0acad646e629e8e8e1134f5530c28fa186
+base.2=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson_2.2.4_7e8b6e9951d6b144baa413f7eda8e1620451774d
+base.1=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\RootTools_17578a9fe7df719026ab0a5e0a066338a60b31b5
 base.0=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_2c624246eae0d21d1a53a0ff9bc2331c8d24b3c7
-file.4=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\hyphenatechat_3.1.4_91e529a9120a8061005d6445f1f72d7418d53f3d\\classes.dex
-file.3=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661\\classes.dex
-file.2=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a158f0acad646e629e8e8e1134f5530c28fa186\\classes.dex
-file.1=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson_2.2.4_7e8b6e9951d6b144baa413f7eda8e1620451774d\\classes.dex
+file.5=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\hyphenatechat_3.1.4_91e529a9120a8061005d6445f1f72d7418d53f3d\\classes.dex
+file.4=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_b50e2b9f32038b9470f9b3e72219d61b171fc661\\classes.dex
+file.3=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5a158f0acad646e629e8e8e1134f5530c28fa186\\classes.dex
+file.2=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\gson_2.2.4_7e8b6e9951d6b144baa413f7eda8e1620451774d\\classes.dex
+file.1=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\RootTools_17578a9fe7df719026ab0a5e0a066338a60b31b5\\classes.dex
 file.0=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_2c624246eae0d21d1a53a0ff9bc2331c8d24b3c7\\classes.dex

@@ -1,4 +1,4 @@
-#Mon Mar 05 15:46:10 CST 2018
+#Wed Mar 07 19:59:08 CST 2018
 base.0=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=E\:\\workcode\\Aplex_Android\\WebCAN-master\\WebCan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
