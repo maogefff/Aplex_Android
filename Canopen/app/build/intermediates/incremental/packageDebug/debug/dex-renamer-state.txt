@@ -1,0 +1,4 @@
+#Wed Mar 14 15:26:30 CST 2018
+base.0=E\:\\workcode\\Aplex_Android\\Canopen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+renamed.0=classes.dex
+file.0=E\:\\workcode\\Aplex_Android\\Canopen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37\\classes.dex

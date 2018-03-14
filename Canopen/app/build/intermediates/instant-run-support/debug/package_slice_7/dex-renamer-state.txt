@@ -1,0 +1,4 @@
+#Wed Mar 14 14:49:20 CST 2018
+base.0=E\:\\test\\Canopen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+renamed.0=classes.dex
+file.0=E\:\\test\\Canopen\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26\\classes.dex
