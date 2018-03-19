@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="baudRate">
+    <item>10Kbps</item>
+    <item>20Kbps</item>
+    <item>50Kbps</item>
+    <item>125Kbps</item>
+    <item>250Kbps</item>
+    <item>500Kbps</item>
+    <item>800Kbps</item>
+    <item>1Mbps</item>
+</string-array>
+
+<string-array name="baudRates">
+    <item>10000</item>
+    <item>20000</item>
+    <item>50000</item>
+    <item>125000</item>
+    <item>250000</item>
+    <item>500000</item>
+    <item>800000</item>
+    <item>1000000</item>
+</string-array>
+
+
+</resources>
