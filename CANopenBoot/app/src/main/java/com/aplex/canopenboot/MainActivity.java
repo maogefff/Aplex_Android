@@ -1,5 +1,6 @@
 package com.aplex.canopenboot;
 
+import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -21,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
     private Switch mSwitch;
     CANopen caNopen;
     Integer baudRateIndex;
+    String currentNodeID;
+    String currentBaudrate;
+    boolean isOpen;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,11 +36,15 @@ public class MainActivity extends AppCompatActivity {
         mSwitch = (Switch)findViewById(R.id.switchID);
 
         baudRateIndex = (Integer)SPUtils.getValue("baudRateIndex", Integer.valueOf(0));
-        boolean isStart = (Boolean) SPUtils.getValue("isStart", Boolean.valueOf(true));
+        currentNodeID = String.valueOf ((Integer)SPUtils.getValue("nodeID", Integer.valueOf(0)));
+        //boolean isStart = (Boolean) SPUtils.getValue("isStart", Boolean.valueOf(true));
+        SharedPreferences sp = getSharedPreferences("mydata", 0);
+        isOpen = sp.getBoolean("isOpen", false);
 
+        mNode.setText(currentNodeID);
         mBaudRate.setSelection(baudRateIndex);
 
-        if(isStart)
+        if(isOpen)
             mSwitch.setChecked(true);
         else
             mSwitch.setChecked(false);
@@ -57,16 +65,26 @@ public class MainActivity extends AppCompatActivity {
         mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
-                boolean isOpen;
 
-                String currentBaudrate = getResources().getStringArray(R.array.baudRates)[baudRateIndex];  //波特率
-                String currentNodeID = mNode.getText().toString();   //节点号
+                currentBaudrate = getResources().getStringArray(R.array.baudRates)[baudRateIndex];  //波特率
+                currentNodeID = mNode.getText().toString();   //节点号
 
                 SPUtils.pushInt("baudRateIndex", baudRateIndex);
                 SPUtils.pushInt("baudRate", Integer.valueOf(currentBaudrate));
+
                 SPUtils.pushInt("nodeID", Integer.valueOf(currentNodeID));
                 isOpen =mSwitch.isChecked();
-                SPUtils.pushBoolean("isOpen", isOpen);
+                //SPUtils.pushBoolean有问题，所以暂时用sharedPreference
+                SharedPreferences sp = getSharedPreferences("mydata", 0);
+                SharedPreferences.Editor ed = sp.edit();
+                //放入数据中
+                ed.putBoolean("isOpen", isOpen);
+                //提交
+                ed.apply();
+//                SPUtils.pushBoolean("isOpen", isOpen);
+                Log.d(TAG, "isOpen="+isOpen);
+                Log.d(TAG, "baudRateIndex="+baudRateIndex);
+                Log.d(TAG, "baudRate="+currentBaudrate);
 
                 //设置
                 CanUtils.setCmdList(currentBaudrate, currentNodeID);

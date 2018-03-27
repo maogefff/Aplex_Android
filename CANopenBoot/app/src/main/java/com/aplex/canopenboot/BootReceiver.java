@@ -3,6 +3,7 @@ package com.aplex.canopenboot;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.util.Log;
 
 
@@ -11,9 +12,9 @@ import com.aplex.canopenboot.utils.SPUtils;
 
 
 public class BootReceiver extends BroadcastReceiver {
-    private final String TAG = "BootReceiver11";
+    private final String TAG = "BootReceiver";
     public final static String ACTION_BOOT_COMPLETED = "android.intent.action.BOOT_COMPLETED";
-    Boolean isOpen;
+    boolean isOpen;
     Integer baudRateIndex;
     Integer nodeID;
     Integer baudRate;
@@ -23,7 +24,12 @@ public class BootReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
 
         if(intent.getAction().equals(ACTION_BOOT_COMPLETED)){
-            isOpen = (Boolean) SPUtils.getValue("isOpen", false);
+            //SPUtils.getValue有问题
+            //isOpen = (Boolean) SPUtils.getValue("isOpen", Boolean.valueOf(false));
+            SharedPreferences sp = context.getSharedPreferences("mydata", 0);
+            //获取出mydata.xml中键值为account的数据
+            isOpen = sp.getBoolean("isOpen", false);
+
             //如果是关闭的
             if(isOpen==true){
                 Log.d(TAG, "isOpen=1");

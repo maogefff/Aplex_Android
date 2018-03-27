@@ -26,6 +26,7 @@ public class CanUtils {
     public static void setCmdList(String can0bitrate, String nodeid){
         cmdList[1] = "ip link set can0 type can bitrate " +can0bitrate+ "  triple-sampling on";
         cmdList[4] = "./canopend can0 -i " +nodeid+ " -s od4_storage -a od4_storage_auto -c /tmp/CO_command_socket &";
+        Log.d(TAG, "cmdList[1]="+cmdList[1]);
     }
 
     public static void startCanopen(){
